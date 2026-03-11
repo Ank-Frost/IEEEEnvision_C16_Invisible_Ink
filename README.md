@@ -7,6 +7,5 @@ Hey Juniors , this Github Repository will be where all the tasks and related res
 ## [**Task 1**](Task_1\task1.md)
 
 
-
-## Extra resource 
+## [**Extra resource**](Extra_resources\extra.md)
 

@@ -8,7 +8,7 @@
 
     **Disclaimer** : If u use VSCode u might not need to use the commands directly but it is very important to know them 
 
-    * Go through the [slides](Task_1\Git_PPT.pdf) .
+    * Go through the [slides](Git_PPT.pdf) .
 
     * Create a repo (short form of Respository) by name "C16_Invisible_Ink_YOURNAME" . 
     * Create a folder for task 1, in it make a file name it ".gitkeep" bc git does not keep track of empty folders .
