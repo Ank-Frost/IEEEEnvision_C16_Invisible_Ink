@@ -1,2 +1,12 @@
-# IEEEEnvision_C16_Invisible_Ink
-Git repo for tracking progress of C16_Invisible_Ink Envision Project
+# IEEE Envision C16 Invisible Ink
+
+Hey Juniors , this Github Repository will be where all the tasks and related resources will be posted.
+
+!!! Important !!! ask doubts. We might leave things unexplained here and there so keep n eye.
+
+## **Task 1**
+
+
+
+## Extra resource 
+
