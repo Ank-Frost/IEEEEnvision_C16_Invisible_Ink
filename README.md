@@ -4,8 +4,8 @@ Hey Juniors , this Github Repository will be where all the tasks and related res
 
 !!! Important !!! ask doubts. We might leave things unexplained here and there so keep n eye.
 
-## [**Task 1**](Task_1\task1.md)
+## [**Task 1**](./Task_1/task1.md)
 
 
-## [**Extra resource**](Extra_resources\extra.md)
+## [**Extra resource**](./Extra_resources/extra.md)
 
